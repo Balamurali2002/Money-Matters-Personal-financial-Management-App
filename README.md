@@ -7,7 +7,7 @@ https://drive.google.com/file/d/18yNL-VISJ6y_iACc3at7mdGYQiY16yD2/view?usp=share
 TEAM GOOGLE DEVELOPER LINK:
 
 Team Lead Balamurali E:
-https://developers.google.com/profile/u/Balamurali56/edit
+https://g.dev/Balamurali56
 
 Team Member 1 YUVARAJ:
 https://developers.google.com/profile/u/Yuvraj24
