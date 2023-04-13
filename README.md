@@ -13,7 +13,7 @@ Team Member 1 YUVARAJ:
 https://developers.google.com/profile/u/Yuvraj24
 
 Team Member 2 Mubarak Ali:
-https://developers.google.com/profile/u/103793769144790877523/edit
+https://g.dev/Mubarakali
 
 Team Member 3 Hameed:
-https://developers.google.com/profile/u/100991145703083212729/edit
+https://g.dev/Mohammed43
